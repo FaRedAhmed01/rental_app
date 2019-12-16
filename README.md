@@ -1,6 +1,7 @@
 # rental_app
 
 Rental App UI Design
+Design credit - https://dribbble.com/shots/5756452-Hengteng-Mimi-APP/attachments/1242481
 
 ## Getting Started
 
